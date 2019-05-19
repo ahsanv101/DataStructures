@@ -1,0 +1,1 @@
+﻿implementing linked lists and their methods.
